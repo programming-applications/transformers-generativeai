@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.jpg" alt="Transformers GenerativeAI Logo" width="100">
+  <img src="logo.png" alt="Transformers GenerativeAI Logo" width="100">
 </p>
 
 <h1 align="center"> Transformers Generative AI </h>
