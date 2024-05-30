@@ -18,5 +18,5 @@
 - [Credentials](#credentials)
 
 <p align="center">
-  <img src="Generative AI for Data Scientists A5MR7HNS3DYX.jpg" alt="TensorFlow Logo" width="825">
+  <img src="Generative AI for Data Scientists A5MR7HNS3DYX.jpg" alt="Generative AI Logo" width="825">
 </p>
