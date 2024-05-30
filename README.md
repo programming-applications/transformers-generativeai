@@ -15,3 +15,8 @@
 - [Generative-artificial-intelligence](#Generative-artificial-intelligence)
 - [Integrated-development-environment](#integrated-development-environment)
 - [Configuration](#configuration)
+- [Credentials](#credentials)
+
+<p align="center">
+  <img src="Generative AI for Data Scientists A5MR7HNS3DYX.jpg" alt="TensorFlow Logo" width="825">
+</p>
